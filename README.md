@@ -1,9 +1,7 @@
 ## Visual Question Answering in the Medical Domain
 
 &nbsp;
-The year 2018 witnessed the inauguration of a special challenge for VQA in the medical domain under the name: the VQA-MED challenge [1],
-which was organized by the reputable ImageCLEF conference [2]. In 2019, the second instalment of the VQA-MED challenge [3] is launched
-and its test dataset currently is avialable publicly [4].
+  The year 2018 witnessed the inauguration of a special challenge for VQA in the medical domain under the name: the VQA-MED challenge [1], which was organized by the reputable ImageCLEF conference [2]. In 2019, the second installment of the VQA-MED challenge [3] is launched and its test dataset currently is available publicly [4].
 
 &nbsp;
 
