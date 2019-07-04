@@ -11,7 +11,7 @@
 - NLM at ImageCLEF 2018 Visual Question Answering in the Medical Domain [[Paper](http://ceur-ws.org/Vol-2125/paper_212.pdf)]
 - Employing Inception-Resnet-v2 and BiLSTM for Medical Domain Visual Question Answering [[Paper](http://ceur-ws.org/Vol-2125/paper_107.pdf)][[code](https://github.com/youngzhou97qz/VQA-Med/)]
 - JUST at VQA-Med: A VGG-Seq2Seq Model [[Paper](http://ceur-ws.org/Vol-2125/paper_171.pdf)] [[code](https://github.com/bashartalafha/VQA-Med)]
-- Deep Neural Networks and Decision Tree classifier for Visual Question Answering in the medical domain [Paper](http://ceur-ws.org/Vol-2125/paper_159.pdf)]
+- Deep Neural Networks and Decision Tree classifier for Visual Question Answering in the medical domain [[Paper](http://ceur-ws.org/Vol-2125/paper_159.pdf)]
 
 &nbsp;
 ### VQA-MED-2019 Challenge:
