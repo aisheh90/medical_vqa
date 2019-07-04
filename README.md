@@ -18,7 +18,7 @@
 Will be added  when available
 
 &nbsp;
-### Reference
+### References
 - [1] https://www.imageclef.org/2018/VQA-Med
 - [2] https://www.imageclef.org/
 - [3] https://www.imageclef.org/2019/medical/vqa
