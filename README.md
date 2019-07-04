@@ -14,6 +14,10 @@
 - Deep Neural Networks and Decision Tree classifier for Visual Question Answering in the medical domain [[Paper](http://ceur-ws.org/Vol-2125/paper_159.pdf)]
 
 &nbsp;
+### Other Work on 2018 Dataset:
+- Visual-Question-Answering-in-Medical-Domain [[Report](https://github.com/nehareddyg/Visual-Question-Answering-in-Medical-Domain/blob/master/AMP%20REPORT.pdf)][[code](https://github.com/nehareddyg/Visual-Question-Answering-in-Medical-Domain)]
+
+&nbsp;
 ### VQA-MED-2019 Challenge:
 Will be added  when available
 
