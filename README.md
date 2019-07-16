@@ -6,7 +6,7 @@
 &nbsp;
 
 ### VQA-MED-2018 Challenge:
-- Leaderboard (https://www.crowdai.org/challenges/imageclef-2018-vqa-med/leaderboards)
+- [Leaderboard](https://www.crowdai.org/challenges/imageclef-2018-vqa-med/leaderboards)
 - Overview of ImageCLEF 2018 Medical Domain Visual Question Answering Task [[Paper](http://ceur-ws.org/Vol-2125/paper_212.pdf)]
 - UMass at ImageCLEF Medical Visual Question Answering (Med-VQA) 2018 Task [[Paper](http://ceur-ws.org/Vol-2125/paper_163.pdf)]
 - NLM at ImageCLEF 2018 Visual Question Answering in the Medical Domain [[Paper](http://ceur-ws.org/Vol-2125/paper_212.pdf)]
@@ -20,7 +20,7 @@
 
 &nbsp;
 ### VQA-MED-2019 Challenge:
-- Leaderboard (https://www.crowdai.org/challenges/imageclef-2019-vqa-med/leaderboards)
+- [Leaderboard](https://www.crowdai.org/challenges/imageclef-2019-vqa-med/leaderboards)
 - Papers will be added  when available
 
 &nbsp;
