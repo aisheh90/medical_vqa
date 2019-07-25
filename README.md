@@ -21,7 +21,20 @@
 &nbsp;
 ### VQA-MED-2019 Challenge:
 - [Leaderboard](https://www.crowdai.org/challenges/imageclef-2019-vqa-med/leaderboards)
-- Papers will be added  when available
+- VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019 [[paper](http://ceur-ws.org/Vol-2380/paper_272.pdf)]
+- Ensemble of Streamlined Bilinear Visual Question Answering Models for the ImageCLEF 2019 Challenge in the Medical Domain[[paper](http://ceur-ws.org/Vol-2380/paper_64.pdf)]
+- Zhejiang University at ImageCLEF 2019 Visual Question Answering in the Medical Domain [[paper](http://ceur-ws.org/Vol-2380/paper_85.pdf)]
+- TUA1 at ImageCLEF 2019 VQA-Med: A classification and generation model based on transfer learning [[paper](http://ceur-ws.org/Vol-2380/paper_190.pdf)]
+- JUST at ImageCLEF 2019 Visual Question Answering in the Medical Domain [[paper](http://ceur-ws.org/Vol-2380/paper_125.pdf)]
+- An Encoder-Decoder model for visual question answering in the medical domain[[paper](http://ceur-ws.org/Vol-2380/paper_124.pdf)]
+- Medical Visual Question Answering at Image CLEF 2019- VQA Med [[paper](http://ceur-ws.org/Vol-2380/paper_147.pdf)]
+- Tlemcen University at ImageCLEF 2019 Visual Question Answering Task [[paper](http://ceur-ws.org/Vol-2380/paper_117.pdf)]
+- Leveraging Medical Visual Question Answering with Supporting Facts [[paper](http://ceur-ws.org/Vol-2380/paper_112.pdf)]
+- LSTM in VQA-Med, is it really needed? JCE study on the ImageCLEF 2019 dataset [[paper](http://ceur-ws.org/Vol-2380/paper_116.pdf)]
+- An Xception-GRU Model for Visual Question Answering in the Medical Domain [[paper](http://ceur-ws.org/Vol-2380/paper_127.pdf)]
+- Deep Multimodal Learning for Medical Visual Question Answering [[paper](http://ceur-ws.org/Vol-2380/paper_123.pdf)]
+- MIT Manipal at ImageCLEF 2019 Visual Question Answering in Medical Domain [[paper](http://ceur-ws.org/Vol-2380/paper_167.pdf)]
+
 
 &nbsp;
 ### References
