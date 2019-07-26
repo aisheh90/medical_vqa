@@ -30,7 +30,7 @@
 - Medical Visual Question Answering at Image CLEF 2019- VQA Med [[paper](http://ceur-ws.org/Vol-2380/paper_147.pdf)]
 - Tlemcen University at ImageCLEF 2019 Visual Question Answering Task [[paper](http://ceur-ws.org/Vol-2380/paper_117.pdf)]
 - Leveraging Medical Visual Question Answering with Supporting Facts [[paper](http://ceur-ws.org/Vol-2380/paper_112.pdf)]
-- LSTM in VQA-Med, is it really needed? JCE study on the ImageCLEF 2019 dataset [[paper](http://ceur-ws.org/Vol-2380/paper_116.pdf)]
+- LSTM in VQA-Med, is it really needed? JCE study on the ImageCLEF 2019 dataset [[paper](http://ceur-ws.org/Vol-2380/paper_116.pdf)] [[code](https://github.com/turner11/VQA-Med)]
 - An Xception-GRU Model for Visual Question Answering in the Medical Domain [[paper](http://ceur-ws.org/Vol-2380/paper_127.pdf)]
 - Deep Multimodal Learning for Medical Visual Question Answering [[paper](http://ceur-ws.org/Vol-2380/paper_123.pdf)]
 - MIT Manipal at ImageCLEF 2019 Visual Question Answering in Medical Domain [[paper](http://ceur-ws.org/Vol-2380/paper_167.pdf)]
